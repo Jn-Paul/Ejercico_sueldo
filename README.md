@@ -70,22 +70,22 @@ Calcular el valor a pagar de cada empleado, considerando el tiempo de trabajo.
 ```
 ### Diseño
 El codigo esta basado mediante el siguiente diagrama de flujo\
-<img  align="center" width="300" style="float: center;" src="Imagen/P_principal.jpg">
+<img  align="center" width="300" style="float: center;" src="https://github.com/Jn-Paul/Ejercico_sueldo/blob/main/Imagen/P_principal.jpg">
 \
 Extraer nombre
-<img  align="center" width="400" style="float: center;" src="Imagen/F_Exnombre.jpg">
+<img  align="center" width="400" style="float: center;" src="https://github.com/Jn-Paul/Ejercico_sueldo/blob/main/Imagen/F_Exnombre.jpg">
 \
 Procesamiento de Datos
-<img  align="center" width="400" style="float: center;" src="Imagen/P_Datos.jpg">
+<img  align="center" width="400" style="float: center;" src="https://github.com/Jn-Paul/Ejercico_sueldo/blob/main/Imagen/P_Datos.jpg">
 \
 Busqueda de Hora
-<img  align="center" width="400" style="float: center;" src="Imagen/F_Exhoras.jpg">
+<img  align="center" width="400" style="float: center;" src="https://github.com/Jn-Paul/Ejercico_sueldo/blob/main/Imagen/F_Exhoras.jpg">
 \
 Busqueda de Día de la semana
-<img  align="center" width="400" style="float: center;" src="Imagen/F_Exdia.jpg">
+<img  align="center" width="400" style="float: center;" src="https://github.com/Jn-Paul/Ejercico_sueldo/blob/main/Imagen/F_Exdia.jpg">
 \
 Calculo sueldo de empleados
-<img  align="center" width="400" style="float: center;" src="Imagen/S_Empleado.jpg">
+<img  align="center" width="400" style="float: center;" src="https://github.com/Jn-Paul/Ejercico_sueldo/blob/main/Imagen/S_Empleado.jpg">
 
 
 ## ENFOQUE
